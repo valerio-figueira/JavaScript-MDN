@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+body{
+    width: 640px;
+    background-color: midnightblue;
+    text-align: justify;
+    margin: auto;
+}
+header{
+    color: azure;
+    text-align: center;
+}
+main{
+    background-color: azure;
+    
+    padding: 18px;
+    border-radius: 6px;
+}
+footer{
+    color: azure;
+    font-weight: bolder;
+    font-style: italic;
+    text-align: center;
+}
+
+
+
+section{
+    padding: 8px;
+}
+article{
+    padding: 14px;
+}
+
+input{
+    padding: 6px;
+}
+
